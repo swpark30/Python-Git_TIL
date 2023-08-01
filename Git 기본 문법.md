@@ -56,8 +56,8 @@
       *글로벌로 설정 했으면 글로벌을 추가해야한다.
 
       `git config --unset --global user.name`
-
-
+  
+  - git branch 설정
 
 
 
